@@ -11,3 +11,6 @@ history of the customers.
        Just like in a amazon website you can filter books that was recommended to you.
     <h2>All the books used to test the Algorithm were from Google Books API</h2>  
        we used over 2000 books, 300 users and 80000 transaction to train and test the algorithm.
+ <h2>The project was documented using doxygen there is a html and pdf format of the documentation available</h2>  
+      
+       
